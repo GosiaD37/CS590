@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"19747baf01a546c0b9618d64a8f9b311","collectionName":"nutrient_values","type":"collection"}
